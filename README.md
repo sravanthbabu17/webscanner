@@ -32,7 +32,7 @@ Requests, BeautifulSoup, Colorama (scanning and parsing)
 Quickstart
 1. Clone this repository
 bash
-git clone https://github.com/YOUR_USERNAME/webscanner.git
+git clone https://github.com/sravanthbabu17/webscanner.git
 cd webscanner
 2. Create and activate a virtual environment
 bash
